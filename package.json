@@ -1,0 +1,21 @@
+{
+  "name": "vue-cli-locale-fr",
+  "version": "0.1.0",
+  "description": "French localization for @vue/cli",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akryum/vue-cli-locale-fr.git"
+  },
+  "keywords": [
+    "vuejs",
+    "vue-cli",
+    "locale"
+  ],
+  "author": "Guillaume Chau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Akryum/vue-cli-locale-fr/issues"
+  },
+  "homepage": "https://github.com/Akryum/vue-cli-locale-fr#readme"
+}
