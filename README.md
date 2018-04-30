@@ -1,8 +1,4 @@
 # vue-cli-locale-fr
 French localization for @vue/cli
 
-Usage:
-
-```
-yarn global add vue-cli-locale-fr
-```
+This will be automatically loaded by vue-cli.
