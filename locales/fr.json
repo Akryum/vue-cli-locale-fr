@@ -191,7 +191,7 @@
         },
         "presets": {
           "title": "Presets",
-          "description": "Un preset est un ensemble de plugins et de configurations prédéfins. Après avoir sélectionné des fonctionnalités, vous pouves sauvegarder la sélection actuelle dans un nouveau preset que vous pourrez réutiliser pour de futurs projets, sans avoir à tout reconfigurer à nouveau.",
+          "description": "Un preset est un ensemble de plugins et de configurations prédéfinis. Après avoir sélectionné des fonctionnalités, vous pouvez sauvegarder la sélection actuelle dans un nouveau preset que vous pourrez réutiliser pour de futurs projets, sans avoir à tout reconfigurer à nouveau.",
           "select": "Sélectionner un preset",
           "buttons": {
             "previous": "Précédent",
