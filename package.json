@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-locale-fr",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "French localization for @vue/cli",
   "unpkg": "./locales/fr.json",
   "repository": {
