@@ -239,7 +239,7 @@
                   "placeholder": "mon-app",
                   "tooltip": "Modifier le dossier cible",
                   "action": "Sélectionner ce dossier",
-                  "folder-exists": "Ce dossier éxiste déjà",
+                  "folder-exists": "Ce dossier existe déjà",
                   "folder-name-invalid": "Nom de dossier invalide"
                 },
                 "manager": {
